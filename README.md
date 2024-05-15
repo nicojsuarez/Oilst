@@ -1,8 +1,7 @@
  # 👋 Hola, soy Nicolas! Analsita de datos de Colombia 🇨🇴.
  
 ## ¡Bienvenido a mi proyecto! Aquí hay un video introductorio:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dCRVrCM1ABQ" frameborder="0" allowfullscreen></iframe>
-
+[Video de Explicacion](https://www.youtube.com/watch?v=dCRVrCM1ABQ&ab_channel=NicolasSuarez)
 
 
 ## Sobre el Proyecto
