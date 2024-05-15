@@ -22,8 +22,6 @@ Utilizamos las siguietes librerias:
 
 [📨 Envíame un mail →](mailto:javinsuarez@gmail.com)
 
-[🤙 Llámame →](tel:+573052621201)
-
 [📝 My CV →](https://www.canva.com/design/DAF7qCO6_Ps/4bLraC9rscY7VLZ4nPdvmQ/view?utm_content=DAF7qCO6_Ps&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## PANDAS 🐼
@@ -136,21 +134,9 @@ La data 📦 https://drive.google.com/file/d/1U4lal8Ztw1lQmukoZN2vDaFgPVc1DWuq/v
 
 ### 📘 Aprendizajes 📘
 
-📓 Prototipo_1: No cargaban las demas hojas ✅ Faltaba una coma en cada hoja del codigo. 
+📓 Prototipos:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e255b425-fa14-4ecc-88cb-03b1145af889/abf1a093-08d4-461c-bab1-a42a399cea61/4df403d5-c951-42cd-b351-3302218dd918.png)
-
-📓 Prototipo_2: Primera imagen 
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e255b425-fa14-4ecc-88cb-03b1145af889/fea97f35-6e74-4f99-94a5-d440968e24a0/Untitled.png)
-
-📓 Prototipo_3
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e255b425-fa14-4ecc-88cb-03b1145af889/4da17076-43e0-4816-a70a-24f28005d03d/Untitled.png)
-
-📓 Prototipo_ 4 ( no hago viz que se muevan para mostrarlas quietas) Agregamos link de descarga para moverlas & corregimos el eje_X para que salga mas adentro de la imagen
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e255b425-fa14-4ecc-88cb-03b1145af889/98cf5a71-92fc-49e0-a361-9a9d41e2de6c/Untitled.png)
+[🐛 Chequea los prototipos →](https://nostalgic-station-6fc.notion.site/Automatizaci-n-de-reporte-abc388ff43624afcba6bae37317860a1)
 
 📘 LAS HOJAS DE PDF TIENES QUE VERLAS COMO UN PLANO DONDE SE MUEVE TODO POR EJE_X Y EJE_Y, si contralos eso puedes poner cada cosa en su lugar para que se vea bien 
 
