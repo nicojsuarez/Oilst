@@ -20,19 +20,12 @@ Utilizamos las siguietes librerias:
 - 💣 PLOTY
 - 📝 REPORTLAB
 
-Algunas otras que nos son de ayuda ( OS & JSON)
 
-[Ciclo1{python, pandas y otros animales}](https://www.notion.so/30053bd4a59843dba19678d946f15ce2?pvs=21)
 
-[Ciclo2 {’Nace el mar’}](https://www.notion.so/d78a42b8816b4e65afce5a580b8b8e0e?pvs=21)
 
----
+[📨 Envíame un mail →](mailto:javinsuarez@gmail.com)
 
-[Ciclo3 [ex-PLOTY] & Automtization ](https://www.notion.so/10031860c0cc48b285ea4a4ba8ff8201?pvs=21)
-
-[📨 Envíame un mail →](mailto:)
-
-[🤙 Llámame →](tel:)
+[🤙 Llámame →](tel:3052621201)
 
 [📝 My CV →](https://www.notion.so/templates/resume)
 
