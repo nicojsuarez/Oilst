@@ -26,10 +26,4 @@ Utilizamos las siguietes librerias:
 
 [📝 My CV →](https://www.canva.com/design/DAF7qCO6_Ps/4bLraC9rscY7VLZ4nPdvmQ/view?utm_content=DAF7qCO6_Ps&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-# Quiero que me expliquen qué sucede!!
 
-Aquí podras encontrar una explcación al problema que presenta la empresa
-
-https://youtu.be/dCRVrCM1ABQ
-
-[]()
