@@ -27,7 +27,7 @@ Utilizamos las siguietes librerias:
 
 [🤙 Llámame →](tel:3052621201)
 
-[📝 My CV →](https://www.notion.so/templates/resume)
+[📝 My CV →](https://www.canva.com/design/DAF7qCO6_Ps/4bLraC9rscY7VLZ4nPdvmQ/view?utm_content=DAF7qCO6_Ps&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 # Quiero que me expliquen qué sucede!!
 
