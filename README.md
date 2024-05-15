@@ -3,9 +3,6 @@
 ## ¡Bienvenido a mi proyecto! ¿Mucha lectura? Aqui te dejo los resultados:
 [Video de resultados](https://www.youtube.com/watch?v=dCRVrCM1ABQ&ab_channel=NicolasSuarez)
 
-
-## Sobre el Proyecto
-
 # Bibliotecas Phython y herramientas de visualización de datos
 
  👋 Hola, soy Nicolas! Analsita de datos de Colombia 🇨🇴.
