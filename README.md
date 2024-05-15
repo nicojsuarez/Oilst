@@ -3,16 +3,15 @@
 
 ## ¡Bienvenido a mi proyecto! Aquí hay un video introductorio:
 
-<iframe width="560" height="315" src="https://youtu.be/dCRVrCM1ABQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dCRVrCM1ABQ&ab_channel=NicolasSuarez" frameborder="0" allowfullscreen></iframe>
 
 ## Sobre el Proyecto
 
 # Bibliotecas Phython y herramientas de visualización de datos
 
-> 👋 Hola, soy Nicolas! Analsita de datos de Colombia 🇨🇴.
+ 👋 Hola, soy Nicolas! Analsita de datos de Colombia 🇨🇴.
 En este escenario vamos a estar revisando un caso de una empresa brasileña que tiene un problema con las entregas!
 Vamos a averiguar por que?!
-> 
 
 Utilizamos las siguietes librerias:
 
