@@ -25,7 +25,7 @@ Utilizamos las siguietes librerias:
 
 [📨 Envíame un mail →](mailto:javinsuarez@gmail.com)
 
-[🤙 Llámame →](tel:3052621201)
+[🤙 Llámame →](tel:+573052621201)
 
 [📝 My CV →](https://www.canva.com/design/DAF7qCO6_Ps/4bLraC9rscY7VLZ4nPdvmQ/view?utm_content=DAF7qCO6_Ps&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
